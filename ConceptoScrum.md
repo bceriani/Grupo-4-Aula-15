@@ -38,3 +38,9 @@ debe mejorar para la próxima iteración. De ninguna manera se centra en lo que 
 ![image](https://user-images.githubusercontent.com/95329694/174450532-9ec8a467-f5b4-4681-8689-b77741492ab6.png)
 ![image](https://user-images.githubusercontent.com/95329694/174450556-57931e52-a757-4dfa-8477-15094e90a8b7.png)
 
+# 3- Artefactos:
+Por lo visto en el material teorico provisto por la catedra https://acceso.ispc.edu.ar/pluginfile.php/65062/mod_book/chapter/2356/Scrum_TS.pdf?time=1653130371454, interpreto que los artefactos en Scrum son todas las tareas que vamos presentando en el Product Backlog. No estoy seguro, que opinan compañeros, ¿son las tareas o que son?
+![image](https://user-images.githubusercontent.com/95329694/174450918-e83a288b-6a76-4f9c-8ae8-9cecfc5f8ce4.png)
+![image](https://user-images.githubusercontent.com/95329694/174450958-226ae60d-9eda-4302-b6d5-62a1238b4a30.png)
+![image](https://user-images.githubusercontent.com/95329694/174450977-2bc5e7f9-4e91-473d-919d-85647a1d058e.png)
+![image](https://user-images.githubusercontent.com/95329694/174451000-e4507cf0-78b3-4b70-b6f2-d251e765766a.png)
