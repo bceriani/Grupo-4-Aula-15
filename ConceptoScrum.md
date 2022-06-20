@@ -51,3 +51,30 @@ Por lo visto en el material teorico provisto por la catedra https://acceso.ispc.
 Roles, buscando en la teoria https://acceso.ispc.edu.ar/pluginfile.php/65062/mod_book/chapter/2356/Scrum_TS.pdf?time=1653130371454 no encontre la definicon de los roles, pero recordando las clases asincronicas tema scrum https://drive.google.com/file/d/1k53JR0a9NG01DHVK7q7iVSflS0g8gmDQ/view, repaso de scrum https://drive.google.com/file/d/1eeyoYfrjRPp-rMDs_oXmqSr1o1kaDaFY/view?usp=sharing, explicacion de github https://youtu.be/T7FICkd1MAE, entiendo que roles no hay en el marco de trabajo Scrum (procesos Agiles), el Scrum Master va rotando en los sprint o no, se elije el asm apto o entendido en esas tareas(artefactos) del prodcut backlog por sprint.
 No estoy seguro, que dicen equipo ¿Los roles que son, no hay o hay?.
 Lo que se me ocurre agregar es que los posibles roles inamobibles dentro del marco de trabajo Scrum son el  Producto Owner y los Customers, pero estos utimos estan fuera del equipo Scrum.
+
+#Roles:
+En la metodología Scrum podemos identificar tres roles principales: Product Owner, Scrum Master y el Scrum Team. Estos tres roles obligatoriamente se requieren para crear el producto del proyecto, son los responsables del éxito de cada sprint y del proyecto en su totalidad.
+#Product Owner:
+Es conocido como “la voz del cliente”, ya que debe entender las necesidades y prioridades de los stakeholders, incluyendo los clientes y los usuarios.
+Algunas de sus responsabilidades son:
+-Definir la visión del proyecto.
+-Ayudar a determinar a los miembros del equipo Scrum.
+-Priorizar los elementos de la lista priorizada de pendientes del producto (Product Backlog).
+-Definir los criterios de terminado.
+#Scrum Master:
+Es quien modera y facilita las interacciones de equipo como facilitador y motivador. Es el responsable de asegurar un ambiente de trabajo productivo para el equipo, debe despejar los obstáculos y garantizar que se cumplan los principios, aspectos y procesos de la metodología scrum.
+Algunas de sus responsabilidades son:
+-Ayudar al Product Owner en la cración de la lista priorizada de pendientes del producto.
+-Determina la duracion del sprint.
+-Apoya al equipo Scrum en la estimacion del esfuerzo necesario para completar las tareas acordadas para el sprint.
+-Se asegura que los problemas que afectan al equipo Scrum se discutan y se resuelvan, garantizando que exista un ambiente ideal para el equipo.
+#Scrum Team:
+Es responsable del desarrollo, servicio o de cualquier otro resultado. Consiste en un grupo de personas que trabajan en las historias de usuario en la lista de pendientes del sprint para crear los entregables del proyecto.
+El tamaño de un equipo Scrum es de seis a diez miembros.
+Algunas de sus responsabilidades son:
+-Estar de acuerdo con los demas miembros del Scrum Team sobre la duración del Sprint.
+-Estimar las historias de usuario aprobadas por el Product Owner.
+-Asignar las historias de usuario que se hacen en un Sprint.
+-Realizar las reuniones diarias de pie (Daily Standup Meeting).
+
+EN CONJUNTO SON LOS RESPONSABLES DE CUMPLIR CON LOS OBJETIVOS DEL PROYECTO.
