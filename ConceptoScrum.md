@@ -9,6 +9,8 @@ Joselo Esteban Orellano: Hola equipo,Soy nacido en Rio Negro, Vivo en Neuquen de
 Hola, mi nombre es Rosana Quispe, vivo en Rio Negro, tengo dos hijos y por suerte tengo la oportunidad de iniciarme en el desarrollo web con esta tecnicatura, disfruto aprender . espero llegar a la meta.  "La educación no cambia al mundo: cambia a las personas que van a cambiar el mundo., PF
 
 
+Hola! mi nombre es Angélica Orozco, soy venezolana pero vivo en La Plata - Buenos Aires. Estoy haciendo la tecnicatura de Desarrollo Web y Aplicaciones Digitales. Sé HTML, CSS, Wordpress, y algo de JS y ReactJS.
+
 
 # Tarea grupal extraer del material de Scrum los siguientes conceptos: 1- Ceremonias, 2- Artefactos y 3- Roles.
 
