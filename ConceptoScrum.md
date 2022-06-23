@@ -11,6 +11,7 @@ Hola, mi nombre es Rosana Quispe, vivo en Rio Negro, tengo dos hijos y por suert
 
 Hola! mi nombre es Angélica Orozco, soy venezolana pero vivo en La Plata - Buenos Aires. Estoy haciendo la tecnicatura de Desarrollo Web y Aplicaciones Digitales. Sé HTML, CSS, Wordpress, y algo de JS y ReactJS.
 
+Hola , mi nombre es Eliana Vera, soy de Córdoba capital . 
 
 # Tarea grupal extraer del material de Scrum los siguientes conceptos: 1- Ceremonias, 2- Artefactos y 3- Roles.
 
