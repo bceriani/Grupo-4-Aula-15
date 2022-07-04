@@ -52,3 +52,15 @@ Repositorios Locales y Remotos.
 Se adjunta clase explicativa dictada 06/06
 https://drive.google.com/file/d/1Po_N5dod0nZSfgU7XX34OwyHUd3wv1fl/view
 
+# Librito 4 GIT:
+Tema mas importante obtener ayuda por consola:
+¿Cómo obtener ayuda?
+Si alguna vez necesitas ayuda usando Git, existen tres formas de ver la página del
+manual (manpage) para cualquier comando de Git:
+$ git help <verb>
+$ git <verb> --help
+$ man git-<verb>
+Por ejemplo, puedes ver la página del manual para el comando config ejecutando
+$ git help config
+Estos comandos son muy útiles porque puedes acceder a ellos desde cualquier sitio,
+incluso sin conexión.
