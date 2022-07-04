@@ -81,3 +81,6 @@ Algunas de sus responsabilidades son:
 -Realizar las reuniones diarias de pie (Daily Standup Meeting).
 
 EN CONJUNTO SON LOS RESPONSABLES DE CUMPLIR CON LOS OBJETIVOS DEL PROYECTO.
+![roles scrumm](https://user-images.githubusercontent.com/95329694/177072482-adf10994-60ef-470c-af03-9189f1a41c9f.png)
+Hola equipo agrego captura con la definicion de roles.
+
