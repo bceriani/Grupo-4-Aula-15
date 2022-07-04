@@ -6,6 +6,16 @@ Software (IEEE): parte de un sistema que se puede codificar para ejecutarse en u
 computadora como un conjunto de instrucciones. Incluye la documentación asociada
 necesaria para comprender, transformar y usar esa solución.
 
+
+Tema destacado 
+Manifiesto Agile (Valores)
+Fuente Imagen: https://www.lynnecazaly.com.au/the-visual-agile-manifesto/
+● Valorar a los individuos por encima de los procesos.
+● El software que funciona por encima de la documentación exhaustiva.
+● La colaboración del cliente por encima de la negociación contractual.
+● La respuesta al cambio por encima del seguimiento de un plan.
+
+
 #Librito 2:GITHUB - VSC
 Github
 Tema mas importante
