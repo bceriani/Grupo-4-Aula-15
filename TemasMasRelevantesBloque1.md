@@ -48,3 +48,7 @@ Nace como necesidad de control para el Kernel de Linux.
 Coordinar el trabajo entre los diferentes desarrolladores del equipo.
 Repositorios Locales y Remotos.
 ![image](https://user-images.githubusercontent.com/95329694/177075575-55bf437c-6a09-4b6b-88ac-137114b1123a.png)
+
+Se adjunta clase explicativa dictada 06/06
+https://drive.google.com/file/d/1Po_N5dod0nZSfgU7XX34OwyHUd3wv1fl/view
+
