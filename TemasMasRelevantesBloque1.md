@@ -19,5 +19,3 @@ La plataforma es de código abierto por defecto, por lo que cualquier persona pu
 ![image](https://user-images.githubusercontent.com/106833817/177074494-24da22b6-97ad-432b-b191-a513d1b2df35.png)
 
 Repositorio Git en Visual Studio Code con cuenta Github
-![image](https://user-images.githubusercontent.com/106833817/177074594-5412bbd8-3a64-496f-b375-529a8dfb029a.png)
-
