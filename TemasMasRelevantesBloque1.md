@@ -19,3 +19,15 @@ La plataforma es de código abierto por defecto, por lo que cualquier persona pu
 ![image](https://user-images.githubusercontent.com/106833817/177074494-24da22b6-97ad-432b-b191-a513d1b2df35.png)
 
 Repositorio Git en Visual Studio Code con cuenta Github
+
+Tema relevante es como crear cuenta Git: Crear cuenta en Github
+
+Accede a https://github.com/ y crea una cuenta. 
+
+Selecciona el plan personal gratuito con repositorio público. No te olvides de terminar la verificación mediante correo electrónico. 
+
+Crea un proyecto en la opción “Create a Proyect”. Incluye el nombre de tu repositorio y selecciona la opción “Create repository”. 
+
+No cierres esta ventana porque vas a necesitar algunos de los datos que ahí se muestran para clonar el repositorio mediante URL. 
+![image](https://user-images.githubusercontent.com/95329694/177075073-a9de1997-5c90-4c3e-b957-3953f8a302e3.png)
+
