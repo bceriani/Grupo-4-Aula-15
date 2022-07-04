@@ -41,3 +41,10 @@ Crea un proyecto en la opción “Create a Proyect”. Incluye el nombre de tu r
 No cierres esta ventana porque vas a necesitar algunos de los datos que ahí se muestran para clonar el repositorio mediante URL. 
 ![image](https://user-images.githubusercontent.com/95329694/177075073-a9de1997-5c90-4c3e-b957-3953f8a302e3.png)
 
+# Librito 3 Git GitHub:
+Tema mas importante que es Git: Git es un sistema de control de versiones (VCS) distribuido gratuito y de código abierto diseñado para manejar desde proyectos pequeños a muy grandes, con velocidad y eficiencia.
+Nos permite conocer los cambios realizados en los programas o software que vamos desarrollando con el paso del tiempo. Administra las distintas versiones
+Nace como necesidad de control para el Kernel de Linux. 
+Coordinar el trabajo entre los diferentes desarrolladores del equipo.
+Repositorios Locales y Remotos.
+![image](https://user-images.githubusercontent.com/95329694/177075575-55bf437c-6a09-4b6b-88ac-137114b1123a.png)
