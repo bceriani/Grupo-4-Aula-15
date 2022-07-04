@@ -84,3 +84,6 @@ EN CONJUNTO SON LOS RESPONSABLES DE CUMPLIR CON LOS OBJETIVOS DEL PROYECTO.
 ![roles scrumm](https://user-images.githubusercontent.com/95329694/177072482-adf10994-60ef-470c-af03-9189f1a41c9f.png)
 Hola equipo agrego captura con la definicion de roles.
 
+La teoría que se encuentra en esta clase, no se esta en el Powe Point, publicado en estos conceptos, adjunto link para su desarrollo conceptual correcto.
+
+https://drive.google.com/file/d/1k53JR0a9NG01DHVK7q7iVSflS0g8gmDQ/view
