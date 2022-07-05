@@ -87,3 +87,5 @@ Hola equipo agrego captura con la definicion de roles.
 La teoría que se encuentra en esta clase, no esta completo en el PDF la plataforma (https://acceso.ispc.edu.ar/pluginfile.php/65062/mod_book/chapter/2356/Scrum_TS.pdf?time=1653130371454), adjunto link para su desarrollo conceptual correcto.
 
 https://drive.google.com/file/d/1k53JR0a9NG01DHVK7q7iVSflS0g8gmDQ/view
+
+Hola equipo ! Nada para agregar , actividad completa
