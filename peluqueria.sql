@@ -37,3 +37,8 @@ constraint fk_Perro foreign key(Perro) references perro (ID_perro)
 
 insert into dueño values(20224010, 'Alejandro', 'Perez', 24252627, '221 b baker street');
 insert into perro values(1, 'Figo', '2020-12-04', 'Macho', 20224010);
+insert into historial values(1, '2022-08-10', 1, 'es jugueton', 2.500);
+
+insert into dueño values(20224011, 'Paola', 'Muñoz', 115246, 'chile');
+insert into perro values(2, 'Mochi', '2010-05-03', 'Macho', 20224011);
+insert into historial values(2, '2020-03-15', 2, 'le gusta dormir', 3.500);
