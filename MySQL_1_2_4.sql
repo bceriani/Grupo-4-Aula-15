@@ -58,7 +58,7 @@ ENGINE = InnoDB;
 
 -- Dueño
 -----------------------------------------------------
-INSERT INTO `Dueno` VALUES (42566994,'Daira', 'Salazar', '332912345678', 'Salta 9295');
+INSERT INTO `Dueno` VALUES (41866994,'Daira', 'Salazar', '332912345678', 'Salta 9295');
 
 -- Perro
 -----------------------------------------------------
